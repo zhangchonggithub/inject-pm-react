@@ -1,0 +1,16 @@
+{
+  "name": "inject-pm-react",
+  "version": "1.0.0",
+  "description": "React injects the framework to realize multi-module sharing of state data, extracts common logic through pure classes, supports hooks and Compement components. For specific usage, please refer to git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "inject-pm-react",
+    "hooks",
+    "inject-pm"
+  ],
+  "author": "zhangchong",
+  "license": "ISC"
+}
